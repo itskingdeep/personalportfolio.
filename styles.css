@@ -311,6 +311,9 @@ home_social-icon:hover {
   width: 200px;
   fill: var(--first-color);
 }
+img{
+  width:200px;
+}
 
 .home_blob-img {
   width: 170px;
