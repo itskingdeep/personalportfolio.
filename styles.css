@@ -311,8 +311,10 @@ home_social-icon:hover {
   width: 200px;
   fill: var(--first-color);
 }
-img{
-  width:200px;
+
+
+image {
+    width: 201px;
 }
 
 .home_blob-img {
